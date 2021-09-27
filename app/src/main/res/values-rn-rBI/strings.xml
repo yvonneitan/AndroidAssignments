@@ -2,6 +2,12 @@
 <resources>
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">Mambo!</string>
-    <string name="ButtonText">I\’m a button</string>
+    <string name="ButtonText">Ni MImi Bonyeza</string>
+    <string name="ingia">Ingia</string>
+    <string name="jambosiri">Jambosiri</string>
+    <string name="radio">RadioButton</string>
+    <string name="halama">CheckBox</string>
+    <string name="badili">Switch</string>
+    <string name="picha">Camera</string>
 
 </resources>
